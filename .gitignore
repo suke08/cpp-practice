@@ -1,0 +1,13 @@
+# Visual Studio auto-generated
+.vs/
+Debug/
+Release/
+x64/
+
+# Build output
+*.exe
+*.obj
+*.pdb
+
+# Code Runner temp file
+tempCodeRunnerFile.cpp
